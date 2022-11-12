@@ -27,6 +27,15 @@
     margin-bottom: 10px;
 }
 
+#principal2 {
+    width: 20%;
+    height: 600px;
+    background-color: rgb(235, 31, 31);
+    float: left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
 #rodape {
     height: 50px;
     background-color: rgb(116, 87, 55);
@@ -53,6 +62,11 @@ p {
 #pasteldoce{
     width: 220px;
     height: 220px;
+}
+
+#quadradinho {
+    width:220px;
+    height:220px;
 }
 
 
