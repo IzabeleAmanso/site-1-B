@@ -41,11 +41,16 @@ p {
 }
 
 #pizzadoce {
-    width: 100px;
+    width: 20%;
     height: 100px;
-
+    
 }
 
 #tittle {
     text-align: center;
+}
+
+#confeitaria {
+    width: 200px;
+    height: 200px;
 }
