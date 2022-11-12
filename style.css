@@ -21,7 +21,7 @@
 #principal {
     width: 20%;
     height: 600px;
-    background-color: rgb(255, 74, 216);
+    background-color: rgb(0, 0, 0);
     float: left;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -29,7 +29,7 @@
 
 #rodape {
     height: 50px;
-    background-color: rgb(212, 212, 192);
+    background-color: rgb(116, 87, 55);
     clear: both;
 }
 
@@ -37,7 +37,7 @@ p {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-size: 16px;
-    color: rgb(201, 162, 209);
+    color: rgb(216, 172, 206);
 }
 
 #pizzadoces {
@@ -48,5 +48,10 @@ p {
 #brigadeiro {
     width: 220px;
     height:220px;
+}
+
+#pasteldoce{
+    width: 220px;
+    height: 220px;
 }
 
